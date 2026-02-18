@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🖖, I'm Metin Anıl Gülhan </h1>
 
-- 🚀 I’m currently learning **Java** and **React**.
+- 🚀 I’m currently learning **JavaScript** and **c++**.
   
 <h3 align="left">Get in touch:</h3>
 <p align="left">
