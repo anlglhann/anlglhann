@@ -1,11 +1,62 @@
-<h1 align="center">Hi 🖖, I'm Metin Anıl Gülhan </h1>
+<h1 align="center">Hi 🖖, I'm Metin Anıl Gülhan</h1>
 
-- 🚀 I’m currently learning **JavaScript** and **c++**.
-  
-<h3 align="left">Get in touch:</h3>
+<h3 align="center">Backend-Focused Computer Engineering Student</h3>
+
+---
+
+### 🚀 About Me
+
+- 🎓 Computer Engineering student
+- 💻 Currently working with **C++**
+- 🌱 Learning **JavaScript** and modern backend development
+- 🎯 Long-term goal: Become a strong **Full-Stack Developer**
+- ⚙️ Interested in scalable systems, APIs, and backend architecture
+
+---
+
+### 🛠 Projects
+
+#### 🐟 Eskiev – Restaurant Backend System
+A backend project built with C++ focused on handling reservations and data management.
+
+- REST-style structure
+- CSV-based data storage
+- Server-side logic implementation
+- Deployment experimentation
+
+#### 📅 University Course Scheduler
+A web-based scheduling tool that normalizes and processes university course data.
+
+- JSON data normalization
+- Structured data transformation
+- Frontend rendering logic
+- Data pipeline scripting
+
+---
+
+### 🧠 Technical Focus
+
+- C++
+- JavaScript (in progress)
+- Backend fundamentals
+- Data processing
+- Git & version control
+
+---
+
+### 📌 Currently Improving
+
+- Backend architecture knowledge
+- Node.js ecosystem
+- API design principles
+- Clean code & project structure
+
+---
+
+### 📫 Connect With Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/metin-an%C4%B1l-g%C3%BClhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anıl gülhan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/metin-an%C4%B1l-g%C3%BClhan/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
